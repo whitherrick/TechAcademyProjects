@@ -1,1 +1,1 @@
-This is to practice uploading to Git Bash
+This is to practice uploading files to Git Bash.
